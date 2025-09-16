@@ -1,5 +1,3 @@
-import React from "react";
-
 export interface Task {
   id: number;
   name_task: string;
